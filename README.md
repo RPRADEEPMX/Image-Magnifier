@@ -2,7 +2,7 @@
 
 ### Description
 
-This widget is used to view your image in zoom on mouse hover which means Magnify. The following steps helps to use this widget in your application.
+This widget is used to magnify your image when you hover your cursor over it. The methods below will assist you in incorporating this widget into your application.
 
 ### Dependencies
 •	Studio pro version 9.19.0
@@ -32,11 +32,14 @@ This widget is used to view your image in zoom on mouse hover which means Magnif
 ![image](https://user-images.githubusercontent.com/126260956/221257393-5724caf0-292b-4839-b93d-083a846e94d2.png)
 
  
-### Result
+### Screenshot
 
 •	As a result you can magnify your image on hover.
 
-![image](https://user-images.githubusercontent.com/126260956/221257456-cb3a3450-3319-4300-b9fd-7394c8c9fb0c.png)
+![image](https://user-images.githubusercontent.com/126260956/225606241-b09dc043-2b86-4484-8388-7f0a432cb98c.png)
+![image](https://user-images.githubusercontent.com/126260956/225606286-65710efc-0af4-46b3-9ed7-44bae45387b0.png)
+![image](https://user-images.githubusercontent.com/126260956/225606304-4a6a8b25-de9c-423e-a430-8cb0dabfe42d.png)
+
  
 
  
